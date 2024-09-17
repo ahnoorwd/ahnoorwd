@@ -1,6 +1,6 @@
 ### Hi there 👋, It's Abdulhannannnoor
 #### I am Developer
-[[![I am Developer](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/431829899_122111612360225807_4338610540348431558_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEdriNaWCj0PTiWphLp_JICiM7AUeJaXX2IzsBR4lpdfZzsP7t3LfWbQCioafA2JaBy6Kfxb3K4WfFtFk50WliY&_nc_ohc=6FmF2BemJCcQ7kNvgFwVZQE&_nc_ht=scontent.fdac138-2.fna&_nc_gid=A_E-jT4ViMEWvu_WWtTEitf&oh=00_AYD1WR5Bcv3WlOXU8bz_RUdG-twp4uvhx-T1OXEdbCJcFg&oe=66EB59C3)](https://media.licdn.com/dms/image/v2/D4E16AQEpMAWTi7risQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726576287810?e=1732147200&v=beta&t=9Ht52KQrEwpQ6BIs3CUZP9BmisT34znCodTVNfuOyFY)](https://media.licdn.com/dms/image/v2/D4E16AQEpMAWTi7risQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726576287810?e=1732147200&v=beta&t=9Ht52KQrEwpQ6BIs3CUZP9BmisT34znCodTVNfuOyFY)
+
 
 Hi, I'm Abdul Hannan Noor, a passionate web and software developer. I'm deeply interested in building responsive websites and creating intuitive mobile applications. With a focus on clean code and user-friendly designs, I enjoy turning ideas into functional solutions.
 
