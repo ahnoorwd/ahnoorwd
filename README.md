@@ -1,6 +1,4 @@
-
 ![I am Junior Web Developer.](https://media.licdn.com/dms/image/v2/D4D16AQHVRcU-B2yEVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730910798124?e=1736985600&v=beta&t=2IJUAiaAThSjZ74w48il7JQas-OLmpcAHaVSh4Hc1_k)
-
 
 ### Hi there 👋, I'am Abdulhannannoor
 #### I am Junior Web Developer.
@@ -23,7 +21,7 @@ Skills:  REACT / JS / HTML / CSS/JavaScript/c/c++
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahnoorwd)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnoorwd)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnoorwd&show_icons=true&count_private=true)  
 
