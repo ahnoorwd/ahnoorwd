@@ -1,6 +1,9 @@
+
+![I am Junior Web Developer.](https://media.licdn.com/dms/image/v2/D4D16AQHVRcU-B2yEVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730910798124?e=1736985600&v=beta&t=2IJUAiaAThSjZ74w48il7JQas-OLmpcAHaVSh4Hc1_k)
+
 ### Hi there 👋, I'am Abdulhannannoor
 #### I am Junior Web Developer.
-![I am Junior Web Developer.](https://media.licdn.com/dms/image/v2/D4D16AQHVRcU-B2yEVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730910798124?e=1736985600&v=beta&t=2IJUAiaAThSjZ74w48il7JQas-OLmpcAHaVSh4Hc1_k)
+
 
 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴘᴜʀꜱᴜɪɴɢ ᴀ ʙᴀᴄʜᴇʟᴏʀ ᴏꜰ ꜱᴄɪᴇɴᴄᴇ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴀɴᴅ ᴇɴɢɪɴᴇᴇʀɪɴɢ (ᴄꜱᴇ) ᴀᴛ ᴍᴇᴛʀᴏᴘᴏʟɪᴛᴀɴ ᴜɴɪᴠᴇʀꜱɪᴛʏ ꜱʏʟʜᴇᴛ. ᴡɪᴛʜ ᴀ ꜱᴏʟɪᴅ ꜰᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ᴅᴀᴛᴀ ꜱᴛʀᴜᴄᴛᴜʀᴇꜱ, ɪ ᴀᴍ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ꜱᴏʟᴜᴛɪᴏɴꜱ ᴛᴏ ʀᴇᴀʟ-ᴡᴏʀʟᴅ ᴘʀᴏʙʟᴇᴍꜱ. ɪ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴄᴏᴜʀꜱᴇᴡᴏʀᴋ ɪɴ ꜱᴛʀᴜᴄᴛᴜʀᴀʟ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ, ᴅᴀᴛᴀ ꜱᴛʀᴜᴄᴛᴜʀᴇꜱ, ᴀɴᴅ ᴀʟɢᴏʀɪᴛʜᴍꜱ ᴀɴᴅ ᴀᴍ ᴀᴄᴛɪᴠᴇʟʏ ʟᴇᴀʀɴɪɴɢ ᴀʙᴏᴜᴛ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇꜱɪɢɴ. ɪ ᴀᴍ ᴇᴀɢᴇʀ ᴛᴏ ᴀᴘᴘʟʏ ᴍʏ ꜱᴋɪʟʟꜱ ɪɴ ɪɴᴛᴇʀɴꜱʜɪᴘꜱ ᴏʀ ᴘʀᴏᴊᴇᴄᴛ-ʙᴀꜱᴇᴅ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ ᴛᴏ ɢʀᴏᴡ ᴀꜱ ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ.
 
