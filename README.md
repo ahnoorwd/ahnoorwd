@@ -1,4 +1,4 @@
-![I am Junior Web Developer.](https://media.licdn.com/dms/image/v2/D4D16AQHVRcU-B2yEVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730910798124?e=1736985600&v=beta&t=2IJUAiaAThSjZ74w48il7JQas-OLmpcAHaVSh4Hc1_k)
+![I am Junior Web Developer.](https://www.linkedin.com/in/abdul-hannan-noor-5955a9315/overlay/background-image/)
 
 ### Hi there 👋, I'am Abdulhannannoor
 #### I am Junior Web Developer.
