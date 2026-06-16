@@ -1,4 +1,4 @@
-![I am Junior Web Developer.]
+
 
 <p align="center">
   <img src="https://github.com/ahnoorwd/ahnoorwd/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png" alt="I am Junior Web Developer." />
